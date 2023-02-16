@@ -26,4 +26,5 @@ aquest fitxer conte la configuració que s empra per tal d acceptar les peticion
 
 Per finalitzar, es crea la clase SecurityConfig per recopilar les politiques de seguretat y configurar un canal per a que la aplicacio sigui
 segura per a totes les solicituds.
+
  */
