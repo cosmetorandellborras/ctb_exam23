@@ -1,0 +1,13 @@
+server:
+  ssl:
+    key-store: classpath:mycert.p12
+    key-store-password: 43191357w
+    key-alias: mykey
+    key-password: 43191357w
+    key-store-type: pkcs12
+  port: 8443
+
+client:
+  ssl:
+    key-store: classpath:mycert.p12
+    key-store-password: 43191357w
